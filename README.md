@@ -1,6 +1,6 @@
 # CI/CD-pipeline project
 
-<h1>This project was made to demonstrate **Kubernetes** skills and acquired knowledge in **CI/CD-pipeline** implementation</h1>
+<h3>This project was made to demonstrate **Kubernetes** skills and acquired knowledge in **CI/CD-pipeline** implementation</h3>
 
 "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes "
 
@@ -16,4 +16,4 @@ The following technologies and services were used in this project:
 - Jenkins
 - Maven
 - Ansible
-- Docker &
+- Docker
