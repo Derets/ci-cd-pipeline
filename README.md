@@ -1,16 +1,19 @@
-# Simple DevOps Project
+# CI/CD-pipeline project
+
+<h1>This project was made to demonstrate **Kubernetes** skills and acquired knowledge in **CI/CD-pipeline** implementation</h1>
 
 "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes "
 
 This Repository is a collection of Implementation documents.
 
+![Alt text](Pipeline.jpg)
+
 ### Purpose:
 
-By following this repository you can able to setup a DevOps CI/CD Pipeline using
+The following technologies and services were used in this project:
 
-- git
+- Kubernetes
 - Jenkins
 - Maven
 - Ansible
 - Docker &
-- Kubernetes
